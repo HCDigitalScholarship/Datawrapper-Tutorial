@@ -122,7 +122,8 @@ While there are no universal standards, the following general guidelines provide
 ---
 
 ### Related Data Visualization Resources  
-- *Writing about Data Sets*  
-- *Working with Data Toolkit*  
-- *TriCo DS Tidy(ish) Data Tutorial*
+-- [Writing about data sets](https://docs.google.com/document/d/1B534SiW1MH888NUnSRJeEWVXZmWAbQ7g-Uk-eXewM6E/edit?tab=t.0)  
+- [Working with Data Toolkit](https://docs.google.com/document/d/1Uz0KFp7KJIofC6NGq4j3rvyoLVUk2ly_6lEnF7x1l2E/edit?tab=t.0)  
+- [Datawrapper Tutorial](https://docs.google.com/document/d/1Sy5in9etjkSHbh7SusszphfYbHAfNblKjEQKeI8Dw98/edit?tab=t.0)
+
 
